@@ -129,4 +129,3 @@ average duration of rides is :  16.3314 mins
 cat('maximum duration of rides is : ', round(max(bikerides_v2$ride_length_min)/60/24), "days")
 maximum duration of rides is :  24 days
 ```
-![image](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/assets/151425512/1a323a03-2cab-4bcf-963d-ab95257760d6)
