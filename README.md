@@ -135,3 +135,34 @@ maximum duration of rides is :  24 days
 
 **We can see that we have majority in the member type.**
 
+## Trip duration distribution
+
+![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Sheet%202.png?raw=true)
+
+**For casual clients we can see that the maximum duration of trip is during the weekends
+For member clients we can see classic bike rides and electric bike rides both happening on Tuesday, Thursday and Wednesday.**
+
+##  Average ride length of member type
+
+1[Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Sheet%203(updated).png?raw=true)
+
+**The Avg ride time of casual clients is more compared to the member clients.**
+
+## Bike types used by Different clients 
+
+![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Sheet%204.png?raw=true)
+
+**Classic bikes are preferred by both casual and member clients of the company followed by electric bikes.
+The member does not use the docked bikes and casual users also use them very less compared to classic and electric bikes.**
+
+## Daywise trip Distribution for casual and members
+
+![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Sheet%205.png?raw=true)
+
+**From the above we can conclude that casual clients use the service majorly over the weekends and the members use the service throughout the week but with slight increase during the weekdays.**
+
+## Number of rides and average ride length(monthly)
+
+![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Sheet%207.png?raw=true)
+
+**The above shows us the number of rides taken by both client types monthly, we can see that the number of rides and avg ride duration dips during the colder months. This can be due to the cold weather and christmas festival during which people prefer to stay indoors or travel using a car or other public transportation.**
