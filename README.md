@@ -1,5 +1,5 @@
 # Cyclistic-bike-share-Case-Study
-![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/1694532846829.png?raw=true)
+![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/logo.png?raw=true)
 
 Crafting strategic marketing initiatives aimed at converting occasional cyclists into dedicated members for Cyclistic, leveraging advanced data analytics techniques.
 
@@ -174,8 +174,9 @@ The member does not use the docked bikes and casual users also use them very les
 
 ## 5. **Share** :
 The graphs used can be viewed from my [Tableu](https://public.tableau.com/app/profile/tushar.bartakke/viz/CyclisticBike-sharecasestudy_17060183363860/Dashboard1#1)
+![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Dashboard%201.png?raw=true)
 
-## **Act** :
+## 6. **Act** :
 
    - Numbers of Casual riders are more in comparision to the members.
    - To convert casual riders into annual members we target casual riders and provide more discounts and offers for membership.
