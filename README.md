@@ -1,4 +1,6 @@
 # Cyclistic-bike-share-Case-Study
+![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/1694532846829.png?raw=true)
+
 Crafting strategic marketing initiatives aimed at converting occasional cyclists into dedicated members for Cyclistic, leveraging advanced data analytics techniques.
 
 I have recently completed the Google Data Analytics Professional Certificate on Coursera. My final capstone project involves analyzing a public dataset for a fictional company, utilizing the R programming language for data analysis and Tableau for visualizations. Excited to share the insights gained from this endeavor!
