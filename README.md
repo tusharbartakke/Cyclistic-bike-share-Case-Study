@@ -12,12 +12,14 @@ In 2016, Cyclistic launched a successful bike-share offering. Since then, the pr
 ### Data Analysis Steps
 
 The following data analysis steps will be followed:
-1. **Ask**: The questions that need to be answered are:
+## 1. **Ask**: 
+The questions that need to be answered are:
     - How do annual members and casual riders use Cyclistic bikes differently?
     - Why would casual riders buy Cyclistic annual memberships?
     - How can Cyclistic use digital media to influence casual riders to become members?
 
-2. **Prepare**: The dataset follows the ROCCC Analysis as described below:
+## 2. **Prepare**: 
+The dataset follows the ROCCC Analysis as described below:
     - Reliable - yes, not biased
     - Original - yes, can locate the original public data
     - Comprehensive - yes, not missing important information
@@ -65,7 +67,7 @@ dim(bikerides)
 [1] 5667717      13 ## contains 5723532 rows and 13 columns
 ```
 
-## Process
+## 3. **Process** :
 Cleaning and Preparing Data
 Checking and removing empty col and rows using janitor
 
@@ -118,7 +120,8 @@ Exporting the end result as CSV to work on Tableau
 ```R
 write.csv(bikerides_v2, "cyclistproject.csv", row.names = FALSE)
 ```
-3. **Analyze**: Key tasks:
+## 4. **Analyze**: 
+Key tasks:
     - Aggregate your data so it’s useful and accessible.
     - Organize and format your data.
     - Perform calculations.
@@ -169,9 +172,10 @@ The member does not use the docked bikes and casual users also use them very les
 
 **The above shows us the number of rides taken by both client types monthly, we can see that the number of rides and avg ride duration dips during the colder months. This can be due to the cold weather and christmas festival during which people prefer to stay indoors or travel using a car or other public transportation.**
 
+## 5. **Share** :
 The graphs used can be viewed from my [Tableu](https://public.tableau.com/app/profile/tushar.bartakke/viz/CyclisticBike-sharecasestudy_17060183363860/Dashboard1#1)
 
-## **Act**
+## **Act** :
 
    - Numbers of Casual riders are more in comparision to the members.
    - To convert casual riders into annual members we target casual riders and provide more discounts and offers for membership.
