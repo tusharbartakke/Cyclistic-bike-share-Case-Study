@@ -129,3 +129,5 @@ average duration of rides is :  16.3314 mins
 cat('maximum duration of rides is : ', round(max(bikerides_v2$ride_length_min)/60/24), "days")
 maximum duration of rides is :  24 days
 ```
+## Comparision between Casual and members
+
