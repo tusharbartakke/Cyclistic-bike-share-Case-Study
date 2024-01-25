@@ -144,7 +144,7 @@ For member clients we can see classic bike rides and electric bike rides both ha
 
 ##  Average ride length of member type
 
-1[Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Sheet%203(updated).png?raw=true)
+![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Sheet%203(updated).png?raw=true)
 
 **The Avg ride time of casual clients is more compared to the member clients.**
 
@@ -166,3 +166,14 @@ The member does not use the docked bikes and casual users also use them very les
 ![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Sheet%207.png?raw=true)
 
 **The above shows us the number of rides taken by both client types monthly, we can see that the number of rides and avg ride duration dips during the colder months. This can be due to the cold weather and christmas festival during which people prefer to stay indoors or travel using a car or other public transportation.**
+
+The graphs used can be viewed from my [Tableu](https://public.tableau.com/app/profile/tushar.bartakke/viz/CyclisticBike-sharecasestudy_17060183363860/Dashboard1#1)
+
+## **Act**
+
+   - Numbers of Casual riders are more in comparision to the members.
+   - To convert casual riders into annual members we target casual riders and provide more discounts and offers for membership.
+   - We can increase rental prices for weekends for casual rides so that they have certain incentive to convert to members.
+   - we can Push Cyclistic's advertisement online during the weekends to target casual users.
+   - WE ca encourage casual users to have membership by lowering the renting price of bikes (member's deal) for weekend.
+
