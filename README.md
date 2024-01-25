@@ -131,3 +131,7 @@ maximum duration of rides is :  24 days
 ```
 ## Comparision between Casual and members
 
+![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Sheet%201.png?raw=true)
+
+**We can see that we have majority in the member type.**
+
