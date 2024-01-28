@@ -25,13 +25,9 @@ The dataset follows the ROCCC Analysis as described below:
     - Comprehensive - yes, not missing important information
     - Current - yes, updated monthly
     - Cited - yes
-
-    I will be using the public dataset located [here](link_to_dataset). The data has been made available by Motivate International Inc. under [this license](link_to_license).
-
-    Key Tasks Followed:
-    - Downloaded data and copies have been stored on the computer.
-    - Downloaded the data for April 21-March 22 Period.
-    - The data is in CSV (comma-separated values) format, and there are a total of 13 columns.
+The data is located on AWS file server where the zip files can be downloaded and named correctly. The data dated from Jan 2022 to Dec 2022 was downloaded and stored locally on desktop for the data cleaning and further analytical processes. The data is current that the usefulness of data is secured. The data is indexed by month (2020-2023) or by fiscal quarters (2015-2020).
+The public data has been made available by Motivate International Inc. under license ![Alt textr](https://ride.divvybikes.com/data-license-agreement). The downloaded original dataset from Cyclistic is reliable - accurate and comprehensive records with complete and unbiased information and it proven fit for use. 
+Note: Data-privacy issues prohibit data-user from using riders’ personally identifiable information. All rider personal information is hidden or kept private to Cyclistic only. Data users won’t be able connect the pass purchases to credit card numbers to o determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 
 3. **Installing and loading required packages**
 
