@@ -32,7 +32,7 @@ The data is located on AWS file server where the zip files can be downloaded and
 The public data has been made available by Motivate International Inc. under [license](https://ride.divvybikes.com/data-license-agreement). The downloaded original dataset from Cyclistic is reliable - accurate and comprehensive records with complete and unbiased information and it proven fit for use. 
 Note: Data-privacy issues prohibit data-user from using riders’ personally identifiable information. All rider personal information is hidden or kept private to Cyclistic only. Data users won’t be able connect the pass purchases to credit card numbers to o determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 
-3. **Installing and loading required packages**
+## Installing and loading required packages
 
 ```R
 install.packages("tidyverse")
@@ -172,7 +172,9 @@ The member does not use the docked bikes and casual users also use them very les
 **The above shows us the number of rides taken by both client types monthly, we can see that the number of rides and avg ride duration dips during the colder months. This can be due to the cold weather and christmas festival during which people prefer to stay indoors or travel using a car or other public transportation.**
 
 ## 5. **Share** :
-The graphs used can be viewed from my [Tableu](https://public.tableau.com/app/profile/tushar.bartakke/viz/CyclisticBike-sharecasestudy_17060183363860/Dashboard1#1)
+The graphs used can be viewed from my [<big>Tableu</big>](https://public.tableau.com/app/profile/tushar.bartakke/viz/CyclisticBike-sharecasestudy_17060183363860/Dashboard1#1)
+
+
 ![Alt text](https://github.com/tusharbartakke/Cyclistic-bike-share-Case-Study/blob/main/Insights%20images/Dashboard%201.png?raw=true)
 
 ## 6. **Act** :
